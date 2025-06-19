@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BitTorrent Client in Go
 
 This is a BitTorrent client implemented in Go. It can parse .torrent files, extract tracker and file information, compute info hashes, and interact with trackers to discover peers.
@@ -25,3 +26,6 @@ Build and run the program using Go:
 
 ## License
 MIT
+=======
+# Bittorrent-peer-to-peer-
+>>>>>>> 569447c849be41379a20d9f1215732099bca659c
